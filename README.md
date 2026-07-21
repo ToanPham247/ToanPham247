@@ -16,10 +16,10 @@
 ---
 
 ### 🧩 What I build
-- ⛓️ **On-chain tooling** — EVM wallet/key kits, balance scanners, native-token spreaders
-- 🤖 **Automation** — CDP browser drivers, proxy rotators, human-like pacing, retry/backoff
-- 🗃️ **Small infra** — append-only JSONL stores, single-instance locks, stagger pools
-- 🧪 **Testnets** — I break things on testnet so mainnet doesn't break
+- ⛓️ **On-chain tooling** — EVM wallet/key kits, balance scanners, native-token spreaders.
+- 🤖 **Automation** — CDP browser drivers, proxy rotators, human-like pacing, retry/backoff.
+- 🗃️ **Small infra** — append-only JSONL stores, single-instance locks, stagger pools.
+- 🧪 **Testnets** — I break things on testnet so mainnet doesn't break.
 
 ### 🛠️ Featured open-source tools
 | Tool | What it does |
